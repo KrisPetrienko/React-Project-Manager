@@ -1,1 +1,1 @@
-# React-Project-Manager.github.io
+# React-Project-manager.github.io
